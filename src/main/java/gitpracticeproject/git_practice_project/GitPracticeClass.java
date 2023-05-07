@@ -10,5 +10,11 @@ public class GitPracticeClass {
 		System.out.println("Code added by second person");
 
 	}
+	public void branch() {
+		
+		System.out.println("person 1 added lines in develop branch");
+		System.out.println("person 1 added lines in develop branch");
+		System.out.println("person 1 added lines in develop branch");
+	}
 
 }
