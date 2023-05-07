@@ -15,5 +15,9 @@ public class App
         System.out.println( "second line added" );
         
         System.out.println( "third line added" );
+       
+        System.out.println( "Line added from second person" );      
+        System.out.println( "Line added from second person" );
+        System.out.println( "Line added from second person" );
     }
 }
