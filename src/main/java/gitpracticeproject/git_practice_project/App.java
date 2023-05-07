@@ -24,8 +24,13 @@ public class App {
 		System.out.println("person 1 added lines in develop branch");
 		System.out.println("person 1 added lines in develop branch");
 		System.out.println("person 1 added lines in develop branch");
-		
+		 
 		
 		System.out.println("Person 2 added lins in develop branch");
+	}
+	
+	public  void developBranch() {
+		
+		System.out.println("Line added by person 1 in develop");
 	}
 }
